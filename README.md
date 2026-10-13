@@ -24,3 +24,8 @@ GND ↔ GND
 - **Chat**: `M<message><checksum>`
 - **Keep-alive**: `K<timestamp><checksum>`
 - Checksum: 2-digit hex XOR of all preceding characters
+
+## License
+MIT License — Copyright (c) 2026 Samith
+
+This project uses the MicroPython standard library (MIT licensed).
